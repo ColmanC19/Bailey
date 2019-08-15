@@ -1,0 +1,28 @@
+body {
+  background-image: url(Bailey.JPG);
+}
+.all {
+  text-align: center;
+  font-size: 35px;
+  color: #FF00FF;
+
+}
+.sidebar {
+  margin: 12px;
+  border: 2px solid #00FF00;
+  padding: 4px;
+  font-size: 25px;
+  color: #00FF00
+}
+.Activities {
+  margin: 12px;
+  border: 2px solid #00FF00;
+  padding: 4px;
+  font-size: 25px;
+  color: #00FF00
+}
+.Oregonhumane {
+  font-size: 21px;
+  color: black;
+  float: inherit;
+}
